@@ -1,6 +1,6 @@
 # StockFlow - Smart Inventory & Supply Chain Management
 
-![StockFlow Banner](https://via.placeholder.com/1200x400/020617/6366f1?text=StockFlow+-+Smart+Inventory+System)
+![StockFlow Banner](https://iamsouravbanerjee.github.io/images/Stack_Overflow_Tag_Prediction_Banner.png)
 
 An end-to-end inventory and supply chain tracking solution built with modern web technologies. This application allows businesses to manage stock levels, track purchase orders, forecast demand, and receive automated alerts for low stock.
 
